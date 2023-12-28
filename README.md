@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! Nice to meet you 👋
+I'm Junhee, Web Developer.<br/>
+Come and see [My Portfolio](https://vast-kidney-95e.notion.site/8e612943477141d29aac5bc9850a503d)<br/>
+
+- Tech Traveler🚀
+- Song Hunter
+
 
 <!--
 **KangJun-Hee/KangJun-Hee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
